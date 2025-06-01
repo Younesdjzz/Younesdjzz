@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me :
 
-<!--
-**Younesdjzz/Younesdjzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, my name is **Younes**! 👋 <br>
+I'm a **first year** bachelor's student in **Computer Science** at UCLouvain 🎓 <br>
+I mainly code in **Python 🐍** and I like **problem solving💡**!
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Younesdjzz&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Younesdjzz&theme=rose_pine&hide_border=true)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 My LeetCode account :
+* [younesdjzz](https://leetcode.com/u/younesdjzz/)
