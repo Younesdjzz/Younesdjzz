@@ -1,13 +1,16 @@
-# 💫 About Me :
-
-Hey, my name is **Younes**! 👋 <br>
+# Hey, my name is **Younes**! 👋
 I'm a **first year** bachelor's student in **Computer Science** at UCLouvain 🎓 <br>
-I mainly code in **Python 🐍** and I like **problem solving💡**!
+I mainly code in **Python 🐍** but I'm currently learning **JavaScript 📜** !
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Younesdjzz&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Younesdjzz&theme=rose_pine&hide_border=true)
----
+# ❔ Why Computer Science :
 
-# 👨‍💻 My LeetCode account :
-* [younesdjzz](https://leetcode.com/u/younesdjzz/)
+I really like **problem solving 💡**! <br>
+What fascinates me the most is all the possible **ways to solve one single problem**... <br>
+...and that's what makes **each of us unique ✨** !
+
+# 🎯 My Goal :
+
+I'd love to contribute to **real-world problem solving 💡** as a **Software Engineer 👨‍💻** !
+
+# 👨‍💻 My LeetCode profile :
+* [Younesdjzz](https://leetcode.com/u/Younesdjzz/)
