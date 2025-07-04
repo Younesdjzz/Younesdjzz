@@ -12,5 +12,13 @@ What fascinates me the most is all the possible **ways to solve one single probl
 
 I'd love to contribute to **real-world problem solving 💡** as a **Software Engineer 👨‍💻** !
 
+# 📂 My personal projects :
+
+**Coming soon... 🚧**
+
 # 🧩 My LeetCode profile :
 * [Younesdjzz](https://leetcode.com/u/Younesdjzz/)
+
+# 📫  My contacts :
+
+**Coming soon... 💬**
