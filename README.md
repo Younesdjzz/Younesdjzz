@@ -10,7 +10,7 @@ What fascinates me the most is all the possible **ways to solve one single probl
 
 # 🎯 My Goal :
 
-I'd love to contribute to **real-world problem solving 💡** as a **Software Engineer 👨‍💻** !
+I'd love to contribute to **real-world problem solving** as a **Software Engineer 👨‍💻** !
 
 # 📂 My personal projects :
 
