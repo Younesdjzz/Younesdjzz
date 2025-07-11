@@ -19,6 +19,8 @@ I'd love to contribute to **real-world problem solving** as a **Software Enginee
 # 🧩 My LeetCode profile :
 * [Younesdjzz](https://leetcode.com/u/Younesdjzz/)
 
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Younesdjzz)
+
 # 📫  My contacts :
 Feel free to **contact me** via my [LinkedIn profile](http://linkedin.com/in/younes-b-) ✉️ ! <br>
 (**I'm open to junior software engineering opportunities** after my **bachelor's degree** 💼)
