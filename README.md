@@ -10,11 +10,11 @@ What fascinates me the most is all the possible **ways to solve one single probl
 
 # 🎯 My Goal :
 
-I'd love to contribute to **real-world problem solving** as a **Software Engineer 👨‍💻** !
+I'd love to contribute to **real-world problem solving** as a **Software Developer 👨‍💻** !
 
 # 📂 My personal projects :
 
-**Coming soon... 🚧**
+**Coming soon... 🚧** (august 2025)
 
 # 🧩 My LeetCode profile :
 * [Younesdjzz](https://leetcode.com/u/Younesdjzz/)
@@ -23,4 +23,4 @@ I'd love to contribute to **real-world problem solving** as a **Software Enginee
 
 # 📫  My contacts :
 Feel free to **contact me** via my [LinkedIn profile](http://linkedin.com/in/younes-b-) ✉️ ! <br>
-(**I'm open to junior software engineering opportunities** after my **bachelor's degree** 💼)
+(**I'm open to junior software developer opportunities** after completing my **bachelor's degree** 💼)
