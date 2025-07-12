@@ -23,4 +23,4 @@ I'd love to contribute to **real-world problem solving** as a **Software Develop
 
 # 📫  My contacts :
 Feel free to **contact me** via my [LinkedIn profile](http://linkedin.com/in/younes-b-) ✉️ ! <br>
-(**I'm open to junior software developer opportunities** after completing my **bachelor's degree** 💼)
+(**I'm open to junior software developer opportunities** starting after I complete my **bachelor's degree** 💼)
