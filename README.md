@@ -12,9 +12,12 @@ What fascinates me the most is all the possible **ways to solve one single probl
 
 I'd love to contribute to **real-world problem solving** as a **Software Developer 👨‍💻** !
 
-# 📂 My personal projects :
+# 📂 My projects :
 
-**Coming soon... 🚧** (august 2025)
+## 🔹1 : **My own customized LeetCode badge**
+- 🔍 **Overview** : A dynamic image made with **HTML**, **CSS** and **Flask** (a Python web framework), displayable on my README
+- 📌 **Visible on** : The **"🧩 My LeetCode profile"** section below
+- 📂 **Repository** : [Younesdjzz/leetcode-badge](https://github.com/Younesdjzz/leetcode-badge)
 
 # 🧩 My LeetCode profile :
 
