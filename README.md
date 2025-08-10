@@ -21,8 +21,7 @@ I'd love to contribute to **real-world problem solving** as a **Software Develop
 
 # 🧩 My LeetCode profile :
 
-[![My LeetCode badge](https://leetcode-badge.onrender.com/badge)](https://leetcode.com/Younesdjzz)
-
+[![My LeetCode badge](https://raw.githubusercontent.com/Younesdjzz/leetcode-badge/main/app/static/badge.png)](https://leetcode.com/Younesdjzz)
 
 # 📫  My contacts :
 Feel free to **contact me** via my [LinkedIn profile](http://linkedin.com/in/younes-b-) ✉️ ! <br>
