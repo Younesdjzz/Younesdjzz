@@ -17,9 +17,9 @@ I'd love to contribute to **real-world problem solving** as a **Software Develop
 **Coming soon... 🚧** (august 2025)
 
 # 🧩 My LeetCode profile :
-* [Younesdjzz](https://leetcode.com/u/Younesdjzz/)
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Younesdjzz)
+[![My LeetCode badge](https://leetcode-badge.onrender.com/badge)](https://leetcode.com/Younesdjzz)
+
 
 # 📫  My contacts :
 Feel free to **contact me** via my [LinkedIn profile](http://linkedin.com/in/younes-b-) ✉️ ! <br>
