@@ -20,7 +20,7 @@ I'd love to contribute to **real-world problem solving** as a **Software Develop
 - 📂 **Repository** : [Younesdjzz/leetcode-badge](https://github.com/Younesdjzz/leetcode-badge)
 
 # 🧩 My LeetCode profile :
-###### 🔗 Click the badge to view my LeetCode profile
+###### 🔗 Click on my badge to view my LeetCode profile
 [![My LeetCode badge](https://raw.githubusercontent.com/Younesdjzz/leetcode-badge/main/app/static/badge.png)](https://leetcode.com/Younesdjzz)
 
 
